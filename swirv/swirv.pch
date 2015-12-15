@@ -1,0 +1,22 @@
+//
+//  swirv.pch
+//  swirv
+//
+//  Created by Yash sikarvar on 01/12/15.
+//  Copyright © 2015 Yash sikarvar. All rights reserved.
+//
+
+#ifndef swirv_pch
+#define swirv_pch
+
+#import "AppDelegate.h"
+#import "HttpUtility.h"
+#import "Reachability.h"
+#import "Singleton.h"
+#import "AppConstant.h"
+#import "UIImageView+UIActivityIndicatorForSDWebImage.h"
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* swirv_pch */
